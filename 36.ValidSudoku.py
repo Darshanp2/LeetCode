@@ -1,6 +1,9 @@
 """
 36. Valid Sudoku
 
+Time Complexity: O(n^2)
+Space Complexity: O(n)
+
 """
 def validSudoku(self, board):
 
